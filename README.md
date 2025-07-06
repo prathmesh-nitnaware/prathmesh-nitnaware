@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Nitnaware!</h1>
 
 <p align="center">
-  <b>Computer Engineering Student | Beginner Developer | Curious Learner</b><br>
-  Exploring the world of software and app development, creating simple yet impactful projects using Java, Python, HTML/CSS/JS, and Android Studio. Driven by curiosity and always ready to learn something new.
+  <b>Computer Engineering Student | Intermediate Developer | Curious Learner</b><br>
+  Exploring the world of software, app development, creating simple yet impactful projects using Java, Python, C++, HTML/CSS/JS, and Android Studio. Driven by curiosity and always ready to learn something new.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🔥 Currently Working On
 
-- Strengthening Java, Python, and Android skills
+- Strengthening Java, Python, C++ and Android skills
 - Building creative mobile and web apps
 - Practicing good UI/UX and responsive design
 - Exploring new APIs and working on meaningful mini-projects
