@@ -55,6 +55,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-nitnaware&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
+<p align="center">
+  <!-- Light mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-nitnaware&theme=github-dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-nitnaware&theme=github-light" alt="prathmesh-nitnaware" />
+  </picture>
+</p>
+
+
 ---
 
 ### 🌐 Connect With Me
@@ -70,6 +79,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
