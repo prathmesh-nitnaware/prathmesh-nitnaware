@@ -1,72 +1,131 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Nitnaware!</h1>
+<h1 align="center">Hi 👋, I'm Prathmesh Nitnaware</h1>
 
 <p align="center">
-  <b>Computer Engineering Student | Intermediate Developer | Curious Learner</b><br>
-  Exploring the world of software, app development, creating simple yet impactful projects using Java, Python, C++, HTML/CSS/JS, and Android Studio. Driven by curiosity and always ready to learn something new.
+  <b>Computer Engineering Student | AI & Machine Learning Focus | Full-Stack Developer (Secondary)</b><br/>
+  I design, build, and deploy ML-powered systems and practical software products.
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280px" />
 </p>
 
 ---
 
-### 🔥 Currently Working On
+## 🎯 Profile Summary
 
-- Strengthening Java, Python, C++ and Android skills
-- Building creative mobile and web apps
-- Practicing good UI/UX and responsive design
-- Exploring new APIs and working on meaningful mini-projects
+Computer Engineering student specializing in **Python and Machine Learning**, with hands-on experience building **end-to-end AI systems** and deploying them through **web and mobile applications**.
 
----
+Strong focus on:
+- Applied Machine Learning & NLP
+- Computer Vision
+- Production-ready backends
+- Clean, usable interfaces when needed
 
-### 💻 Tech Stack
-
-| Domain | Skills |
-|--------|--------|
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) |
-| **Web Development** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Android Dev** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Tools** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white) |
+Web and Android development support my ML work — not the other way around.
 
 ---
 
-### 🚀 Projects I've Built
+## 🧠 Core Skills
 
-- 🎯 **AI-Powered Fake News Detection Tool** (Hackathon Project)
-- ☀️ **Weather App** (Android)
-- 📖 **Bible Verse Live Wallpaper App** (Android)
-- ⏱ **Breathing Timer Web App**
-- 🔗 **QR Code Generator Website**
-- 💌 **Mother’s Day Greeting Page** (HTML/CSS/JS)
-- 🎮 **Snake Game** (JavaScript)
-- ➗ **Calculator Web App** (HTML/CSS/JS)
-- 📱 **Responsive Landing Pages** (Tailwind CSS & Media Queries)
+### 🔹 Programming Languages (Priority)
+- **Python** (ML, data processing, backend)
+- Java
+- C++
+- JavaScript
+- SQL
 
----
+### 🔹 Machine Learning & AI
+- NumPy, Pandas
+- Scikit-learn
+- TensorFlow, Keras
+- OpenCV
+- NLP (text preprocessing, classification, evaluation)
+- CNNs & Transfer Learning
+- Model evaluation & feature engineering
 
-### 📊 GitHub Stats
+### 🔹 Web / Backend (Supporting Stack)
+- React
+- Django
+- Node.js, Express
+- MongoDB
+- REST APIs
+- Bootstrap, HTML, CSS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathmesh-nitnaware&show_icons=true&theme=radical" alt="Prathmesh's github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-nitnaware&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-<p align="center">
-  <!-- Light mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-nitnaware&theme=github-dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-nitnaware&theme=github-light" alt="prathmesh-nitnaware" />
-  </picture>
-</p>
-
+### 🔹 Tools & Platforms
+- Git & GitHub
+- Android Studio
+- VS Code
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Selected Projects
+
+### 🔬 Machine Learning & AI Projects
+
+**🤖 AI Mock Interview Platform**  
+AI-powered interview system that simulates technical interviews and evaluates responses.
+- Domain-specific question generation
+- NLP-based response analysis
+- Scoring and feedback system  
+*Tech:* Python, NLP, ML models, backend integration
+
+**📰 Fake News Detection System**  
+ML-based system to classify news articles as real or fake.
+- Text preprocessing & feature extraction
+- Supervised classification models  
+*Tech:* Python, NLP, Scikit-learn
+
+**🧠 Brain Tumor Detection**  
+Deep learning model for detecting brain tumors from medical images.
+- CNN-based architecture
+- Image preprocessing and evaluation  
+*Tech:* Python, TensorFlow, Computer Vision
+
+**🐄 Cattle Breed Classification**  
+Computer vision system to classify cattle breeds from images.
+- CNN + transfer learning
+- Image augmentation and optimization  
+*Tech:* Python, Deep Learning
+
+**🥗 Food Waste Prediction**  
+Data-driven ML model to predict food waste trends.
+- Exploratory data analysis
+- Predictive modeling  
+*Tech:* Python, ML, Data Analysis
+
+---
+
+### 🌐 Web / Full-Stack Projects (Supporting)
+
+**🎬 Virtual Movie Streamer**  
+MERN stack application for synchronized movie streaming with real-time interaction.
+
+**🔗 QR Code Generator**  
+Lightweight web application for generating QR codes dynamically.
+
+**⏱ Breathing Timer Web App**  
+Minimal React app focused on usability and clean UI.
+
+---
+
+### 📱 Android Applications
+
+**☀️ Weather App**  
+Android application fetching real-time weather data using external APIs.
+
+---
+
+## ⚙️ Engineering Principles
+
+- ML first, UI second
+- Start simple, scale complexity only when needed
+- Prefer deployable systems over notebooks
+- Explainability matters
+- If it can’t ship, it’s not finished
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:nitnaware.prathmesh@gmail.com">
@@ -80,8 +139,7 @@
   </a>
 </p>
 
-
 ---
 
-🎵 *Fun Fact: When I’m not coding, I enjoy playing various musical instruments such as the keyboard, guitar, and harmonium. Music fuels my creativity and keeps me motivated!*
-
+🎵 **Outside of code:** I play keyboard, guitar, and harmonium.  
+Inside of code: still trying to make models converge.
