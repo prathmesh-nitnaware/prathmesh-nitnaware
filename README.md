@@ -4,7 +4,7 @@
 
 # Prathmesh Nitnaware
 ### **Enterprise AI Architect & Full-Stack Systems Engineer**
-*Architecting High-Throughput Distributed Systems • Multi-Agent Cognitive Workflows • Multimodal Vision Engines*
+*Architecting High-Throughput Distributed Systems • Multi-Agent Cognitive Swarms • Multimodal Vision Engines*
 
 <br/>
 
@@ -15,6 +15,8 @@
 [![Email](https://img.shields.io/badge/Email-nitnaware.prathmesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitnaware.prathmesh@gmail.com)
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-%40PrathmeshNitnaware-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathmeshNitnaware)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-nitnaware&color=10b981&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prathmesh-nitnaware)
 
 </div>
 
@@ -31,11 +33,45 @@ I am a **Computer Engineering student in Mumbai** specializing in state-of-the-a
 
 ### 🚀 Featured Projects
 
-| 🧠 MeetingOS — Enterprise Organizational Memory | 🎯 PrepAI — Multimodal Interview Intelligence |
-| :--- | :--- |
-| An enterprise cognitive system designed to capture, structure, and query institutional decision graphs across multi-quarter project timelines.<br/><br/>• **6-Agent Cognitive Subsystem:** Asynchronous orchestrator with *Planner*, *Retrieval*, *Temporal*, *Graph*, *Evidence*, and *Answer* agents running deterministic self-correction feedback loops.<br/>• **Tri-Hybrid Retrieval Tier:** Unifies PostgreSQL relational schema, directed knowledge graphs, and high-dimensional vector embeddings via `pgvector` with HNSW cosine indexing (sub-450ms query latency). | A real-time multimodal evaluation platform engineered for automated technical candidate screening and telemetry-driven behavioral analytics.<br/><br/>• **Real-Time Perceptual Engine:** MediaPipe Face Mesh & OpenCV tracking 3D head rotation (yaw/pitch/roll) and Eye Aspect Ratio (EAR) at 30+ FPS in-browser.<br/>• **Vocal & Algorithmic Analytics:** **Librosa YIN** algorithm tracking fundamental vocal stress micro-perturbations coupled with a Neural Monaco IDE with AST-driven asymptotic complexity scoring. |
-| **🔒 FedVault AI — Privacy-Preserving Federated Learning** | **👗 V-TryOn — Dual-Engine AR & Neural Garment Draping** |
-| A zero-knowledge distributed ML framework designed for decentralized credit risk modeling without raw data exposure.<br/><br/>• **Encrypted Tensor Aggregation:** Combines **FedAvg** with **CKKS Homomorphic Encryption via TenSEAL**, executing server-side model parameter updates directly over ciphertext without edge weight decryption.<br/>• **Explainable AI & Defense:** Local saliency attribution (Integrated Gradients / SHAP) with coordinate-wise trimmed median aggregation for Byzantine fault resilience. | A hybrid client-edge and cloud virtual fitting room solving geometric distortion and misalignment in neural apparel transfer.<br/><br/>• **Client-Side WASM Mesh Warping:** Deploys MediaPipe pose estimation compiled to WebAssembly (WASM) for instant 30+ FPS interactive garment preview in-browser.<br/>• **Deep Geometric Fitting Pipeline:** Server-side **CP-VTON+** pipeline featuring **Self-Correction Human Parsing (SCHP)** and HRNet for non-rigid fabric draping and occlusion-aware GAN blending. |
+```
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   ENTERPRISE SYSTEM ARCHITECTURES                                      │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### 🧠 1. [MeetingOS](https://github.com/prathmesh-nitnaware) — Enterprise Organizational Memory & Cognition Swarm
+> *Autonomous intelligence platform capturing, linking, and querying institutional decisions and multi-quarter timelines.*
+
+- **6-Agent Cognitive Subsystem:** Built an asynchronous multi-agent orchestration fabric featuring **Planner**, **Retrieval**, **Temporal Resolver**, **Knowledge Graph Traversal**, **Evidence Validator**, and **Answer Synthesizer** agents operating in deterministic self-correction feedback loops to eradicate hallucinations.
+- **Tri-Hybrid Retrieval Tier:** Unifies structured relational schema (PostgreSQL), directed entity-relationship graphs (for decision/stakeholder lineage), and high-dimensional dense vector embeddings (`pgvector` with HNSW cosine distance indexing), slashing query latency to **sub-450ms across 100k+ enterprise artifacts**.
+- **Tech Stack:** `Python` • `FastAPI` • `PostgreSQL` • `pgvector` • `LangChain / LlamaIndex` • `Docker`
+
+---
+
+#### 🎯 2. [PrepAI](https://github.com/prathmesh-nitnaware) — Multimodal Technical Interview Intelligence
+> *Low-latency, real-time evaluation platform for automated candidate screening and behavioral/vocal telemetry.*
+
+- **Real-Time Perceptual Vision Pipeline:** Employs MediaPipe Face Mesh and OpenCV to compute candidate visual attentiveness and cognitive stress indices, tracking 3D head yaw/pitch/roll rotations and Eye Aspect Ratio (EAR) at **30+ FPS directly in-browser**.
+- **Acoustic Stress & Neural AST IDE:** Integrates the **Librosa YIN algorithm** to calculate fundamental vocal frequency ($F_0$), voice tremor perturbation, and pitch micro-variations, coupled with a reactive Monaco IDE that performs Abstract Syntax Tree (AST) analysis for real-time asymptotic complexity (Big-O) scoring.
+- **Tech Stack:** `Python` • `OpenCV` • `MediaPipe` • `Librosa` • `React` • `Monaco Editor` • `WebSockets`
+
+---
+
+#### 🔒 3. [FedVault AI](https://github.com/prathmesh-nitnaware) — Privacy-Preserving Federated Learning Platform
+> *Zero-knowledge distributed machine learning framework for decentralized risk modeling without exposing raw training data.*
+
+- **Encrypted Tensor Aggregation:** Implemented **FedAvg (Federated Averaging)** combined with **CKKS Homomorphic Encryption via TenSEAL**, executing server-side model parameter updates directly over encrypted ciphertext without edge weight decryption.
+- **Explainable AI (XAI) & Byzantine Resilience:** Generates local feature attributions (Integrated Gradients / SHAP) on client edge nodes prior to parameter serialization, defended by coordinate-wise trimmed median aggregation protocols against adversarial poisoning.
+- **Tech Stack:** `PyTorch` • `TenSEAL (CKKS)` • `Federated Learning` • `FastAPI` • `SHAP` • `Docker`
+
+---
+
+#### 👗 4. [V-TryOn](https://github.com/prathmesh-nitnaware) — Dual-Engine AR & Neural Garment Draping
+> *Hybrid edge-and-cloud virtual fitting room solving severe geometric distortion in neural apparel transfer.*
+
+- **Client-Side WASM Mesh Warping:** Deploys lightweight MediaPipe human pose landmark estimation compiled to WebAssembly (WASM), delivering instant **30+ FPS interactive garment preview in-browser**.
+- **Deep Geometric Fitting Pipeline:** Server-side **CP-VTON+** pipeline featuring **Self-Correction Human Parsing (SCHP)** and **HRNet** for non-rigid fabric deformation, realistic texture draping, and occlusion-aware conditional GAN blending.
+- **Tech Stack:** `PyTorch` • `CP-VTON+` • `SCHP` • `HRNet` • `WebAssembly (WASM)` • `MediaPipe` • `React`
 
 ---
 
@@ -86,39 +122,48 @@ I am a **Computer Engineering student in Mumbai** specializing in state-of-the-a
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=prathmesh-nitnaware&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=38BDF8&text_color=94A3B8" alt="Prathmesh's GitHub Stats" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prathmesh-nitnaware&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=38BDF8&text_color=94A3B8" alt="Prathmesh's GitHub Stats" />
 &nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-nitnaware&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=94A3B8" alt="Top Languages" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prathmesh-nitnaware&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=94A3B8" alt="Top Languages" />
+
+<br/><br/>
+
+<img height="165em" src="https://streak-stats.demolab.com/?user=prathmesh-nitnaware&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak Stats" />
 
 </div>
 
 ---
 
-### 🔭 Current Focus & Interests
+### 🔭 Current Focus & Architectural Telemetry
 
-```javascript
-const engineerProfile = {
-  name: "Prathmesh Nitnaware",
-  title: "Enterprise AI Architect & Full-Stack Systems Engineer",
-  location: "Mumbai, India",
-  current_education: "Computer Engineering Scholar",
-  exploring: [
-    "Advanced Tri-Hybrid RAG Architectures (Knowledge Graphs + Vector Embeddings)",
-    "Asynchronous Multi-Agent Swarm Orchestration & Self-Correction Protocols",
-    "Privacy-Preserving Federated Learning with Homomorphic Encryption (CKKS)",
-    "Sub-second Edge Inferences with WebAssembly (WASM) & MediaPipe"
-  ],
-  building: [
-    "Enterprise AI cognitive memory operating systems (MeetingOS)",
-    "High-throughput real-time multimodal evaluation engines (PrepAI)",
-    "Zero-knowledge decentralized risk assessment pipelines (FedVault AI)"
-  ],
-  architectural_principles: [
-    "Observability-Driven Development",
-    "Cryptographic Zero-Trust Boundaries",
-    "Deterministic Distributed Consensus"
-  ]
-};
+```typescript
+// ============================================================================
+// SYSTEM STATUS: [ONLINE]  |  TELEMETRY: [OPTIMAL]  |  RUNTIME: MUMBAI (IST)
+// ============================================================================
+
+interface SystemArchitectState {
+  identity: {
+    engineer: "Prathmesh Nitnaware";
+    domain: "Enterprise AI Architect & Full-Stack Systems Engineer";
+    status: "Active Engineering & Continuous Deployment";
+  };
+  activeDirectives: {
+    agenticSwarmOrchestration: "Multi-agent self-correcting feedback loops";
+    hybridRAGPipelines: "Unifying PostgreSQL + Knowledge Graphs + pgvector";
+    cryptographicPrivacyML: "Homomorphic encryption (CKKS) with Federated Averaging";
+    realtimePerception: "Sub-second edge inferences using WebAssembly & MediaPipe";
+  };
+  currentBuildQueue: [
+    "MeetingOS: Enterprise cognitive organizational memory",
+    "PrepAI: Multimodal behavioral & vocal stress intelligence",
+    "FedVault AI: Zero-knowledge decentralized credit risk scoring"
+  ];
+  architecturalCoreTenets: [
+    "1. Observability First: Zero-drift telemetry & tracing",
+    "2. Cryptographic Security: Zero-trust computation over ciphertext",
+    "3. Deterministic Performance: Sub-second bounded latency at scale"
+  ];
+}
 ```
 
 ---
@@ -127,7 +172,7 @@ const engineerProfile = {
 
 | 🎹 Keyboard Performance | 🎵 Music Production | 💻 Competitive Programming | 🎥 YouTube Content Creation |
 | :---: | :---: | :---: | :---: |
-| Classical & contemporary keys, synth textures, and improvisation | Acoustic arrangements, harmonic composition & sound design | Algorithmic puzzle solving, graph theory, & dynamic programming | Tech tutorials, AI deep-dives, and engineering walkthroughs |
+| Classical & contemporary keys, synth textures, and live improvisation | Acoustic arrangements, harmonic composition & sound engineering | Algorithmic puzzle solving, graph theory & dynamic programming | Technical tutorials, AI deep-dives & architecture breakdowns |
 
 ---
 
