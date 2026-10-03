@@ -1,7 +1,5 @@
 <div align="center">
 
-![Prathmesh Nitnaware](banner.gif)
-
 # Prathmesh Nitnaware
 ### **Enterprise AI Architect & Full-Stack Systems Engineer**
 *Architecting High-Throughput Distributed Systems • Multi-Agent Cognitive Swarms • Multimodal Vision Engines*
