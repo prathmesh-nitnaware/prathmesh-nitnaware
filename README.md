@@ -1,204 +1,306 @@
 <div align="center">
 
 # Prathmesh Nitnaware
-### **Enterprise AI Architect & Full-Stack Systems Engineer**
-*Architecting High-Throughput Distributed Systems • Multi-Agent Cognitive Swarms • Multimodal Vision Engines*
+
+### AI/ML Engineer | Computer Engineering Student
+
+**Building applied AI systems across NLP, Computer Vision, RAG, Multimodal AI, and intelligent software systems.**
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-prathmeshsite.netlify.app-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prathmeshsite.netlify.app)
+
 &nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fprathmesh--nitnaware-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-nitnaware)
+
 &nbsp;
+
 [![Email](https://img.shields.io/badge/Email-nitnaware.prathmesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitnaware.prathmesh@gmail.com)
+
 &nbsp;
+
 [![YouTube](https://img.shields.io/badge/YouTube-%40PrathmeshNitnaware-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathmeshNitnaware)
 
 <br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-nitnaware&color=10b981&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prathmesh-nitnaware)
-&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/prathmesh-nitnaware?label=Followers&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/prathmesh-nitnaware?tab=followers)
-&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/prathmesh-nitnaware?label=Stars&style=for-the-badge&color=F59E0B&logo=apachespark&logoColor=white)](https://github.com/prathmesh-nitnaware)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a **Computer Engineering scholar in Mumbai**, engineering scalable production software at the intersection of **autonomous multi-agent AI ecosystems**, **high-throughput distributed microservices**, and **real-time multimodal perceptual systems**. 
+I'm a **Computer Engineering student** focused on building practical AI/ML systems that go beyond model training and into real-world applications.
 
-My engineering discipline revolves around building resilient systems from first principles — optimizing distributed query engines, orchestrating sub-second edge inference, and designing privacy-first cryptographic machine learning frameworks.
+My work spans:
 
-#### 💡 What Drives Me
-> *"Build for observability, scale securely, and engineer with precision."*
+- 🤖 **Machine Learning & Deep Learning**
+- 🧠 **NLP & Large Language Models**
+- 👁️ **Computer Vision**
+- 🔎 **RAG & Knowledge Systems**
+- 🎙️ **Speech & Multimodal AI**
+- 🔐 **Privacy-Preserving & Federated Learning**
+- ⚙️ **AI-powered Backend Systems**
+- 🌐 **Full-Stack Applications**
+
+I enjoy taking an idea from **model → backend → product → deployment**, while paying attention to reliability, evaluation, security, and system design.
+
+> **Build useful systems. Understand the fundamentals. Ship the result.**
 
 ---
 
-### 🚀 Featured Architectural Systems
+## 🚀 Featured Projects
+
+### 🎯 PrepAI — Multimodal AI Mock Interview Platform
+
+**AI-powered interview simulation combining NLP, Computer Vision, speech analysis, and backend intelligence.**
+
+PrepAI is designed to simulate a real interview experience where an AI interviewer asks questions, evaluates responses, and generates structured performance feedback.
+
+**Highlights**
+
+- 🧠 AI-generated technical and behavioural interview questions
+- 🎙️ Speech-to-text and voice-based interview interaction
+- 👁️ Client-side facial and posture analysis
+- 📊 Deterministic communication metrics such as WPM, fillers, pauses, and delivery signals
+- 📝 AI-assisted answer evaluation and structured reporting
+- 🗄️ PostgreSQL-backed interview/session history
+- 🐳 Production-oriented backend architecture and deployment
+
+**Stack:** `Python` `Flask` `React` `PostgreSQL` `Gemini` `MediaPipe` `face-api.js` `WebSockets`
+
+---
+
+### 🛡️ AEGIS — Distributed AI-Powered Endpoint Detection
+
+**A distributed cybersecurity system combining endpoint telemetry, machine learning, consensus, and Zero Trust principles.**
+
+AEGIS explores how multiple local detection nodes can collaborate to identify suspicious activity while remaining resilient to compromised or unreliable nodes.
+
+**Highlights**
+
+- 🔐 Distributed endpoint detection architecture
+- 🤖 Hybrid ML-based threat detection
+- 🗳️ Weighted consensus and voting
+- ❤️ Heartbeat-based node health monitoring
+- 🌐 Network-flow analysis
+- 🪟 Windows telemetry and behavioural detection
+- 🐧 Linux syscall telemetry
+- 📦 PE/EMBER feature extraction
+- 🧪 Security, load, and model validation pipelines
+
+**Stack:** `Python` `Machine Learning` `Scapy` `EMBER` `CICIDS` `Linux` `Windows` `Distributed Systems`
+
+---
+
+### 🔒 FedVault AI — Privacy-Preserving Federated Learning
+
+**Exploring federated machine learning where participating clients can collaboratively train models without directly sharing raw data.**
+
+**Highlights**
+
+- 🔐 Federated learning architecture
+- 🧠 Federated model training and aggregation
+- 🔏 Homomorphic-encryption experimentation
+- 🛡️ Privacy and security considerations
+- 📊 Model evaluation across distributed clients
+- 🧪 Research-oriented experimentation around secure aggregation
+
+**Stack:** `Python` `PyTorch` `Federated Learning` `TenSEAL` `FastAPI` `Docker`
+
+---
+
+### 🔐 TrustFL — Trust & Security for Federated Learning
+
+A project exploring **trust, robustness, and security in federated learning environments**, with emphasis on handling unreliable or potentially malicious participants.
+
+**Focus Areas**
+
+- Federated learning
+- Trust-aware aggregation
+- Security against malicious clients
+- Robust model coordination
+- Privacy-preserving machine learning
+
+**Stack:** `Python` `Machine Learning` `Federated Learning`
+
+---
+
+### 🧠 V-Orbit — AI-Powered Student Intelligence Platform
+
+**An AI platform designed to connect learning, academic resources, skills, and career preparation.**
+
+**Core Areas**
+
+- 📚 RAG-based academic knowledge retrieval
+- 🧠 AI-powered learning assistance
+- 🎯 Skill-gap and career analysis
+- 📄 Document-based knowledge processing
+- 💬 AI interaction over domain-specific content
+
+**Stack:** `Python` `Flask` `RAG` `LLMs` `Vector Search` `Firebase`
+
+---
+
+### 🧩 MeetingOS — AI Knowledge & Meeting Intelligence
+
+**An AI-powered system focused on turning organizational conversations and information into searchable, structured knowledge.**
+
+**Focus Areas**
+
+- 🔎 Semantic information retrieval
+- 🧠 LLM-powered knowledge extraction
+- 📚 Organizational knowledge management
+- 🗂️ Structured document and meeting information
+- ⚙️ AI-assisted backend workflows
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `pgvector` `Docker`
+
+---
+
+## 🧪 Other Projects
+
+| Project | Area |
+|---|---|
+| **StudySync AI** | AI-powered learning / productivity |
+| **Resume Parser** | NLP / Information Extraction |
+| **SpotFix** | AI + Full-Stack + Real-Time Systems |
+| **Virtual Try-On** | Computer Vision |
+| **Breed Classification** | Deep Learning / Computer Vision |
+| **Shopper Spectrum** | Machine Learning / Customer Analytics |
+| **Food Waster Prediction** | Machine Learning / Prediction |
+| **Voyage Analytics** | Data Analytics / ML |
+
+---
+
+## 🧰 Technical Skills
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+
+</p>
+
+**Machine Learning • Deep Learning • NLP • Computer Vision • RAG • LLM Applications • Multimodal AI • Speech Processing • Model Evaluation**
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</p>
+
+### 🗄️ Data & Infrastructure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+## 🧠 What I'm Currently Learning
+
+```text
+AI / ML
+├── Machine Learning fundamentals
+├── Deep Learning
+├── NLP & LLMs
+├── RAG & Agentic AI
+├── Computer Vision
+├── Multimodal AI
+└── Model Evaluation & Optimization
+
+Engineering
+├── Data Structures & Algorithms
+├── System Design
+├── Backend Architecture
+├── Distributed Systems
+├── APIs & Microservices
+└── Cloud & Deployment
+
+## 📈 GitHub Activity
 
 <div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                   PRODUCTION AI & DISTRIBUTED ENGINES                                  │
-└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
-#### 🧠 01. MeetingOS — Enterprise Organizational Memory & Cognition Swarm
-`[PRODUCTION ARCHITECTURE]` • `[MULTI-AGENT ORCHESTRATION]` • `[SUB-450MS HYBRID RETRIEVAL]`
+---
 
-> An autonomous cognitive operating system engineered to preserve, structure, and query institutional decisions, technical tradeoffs, and multi-quarter project roadmaps.
+## 🔭 Current Focus
 
-* **Autonomous 6-Agent Swarm Fabric:** Orchestrates **Planner**, **Retrieval**, **Temporal Resolver**, **Graph Traversal**, **Evidence Validator**, and **Answer Synthesizer** agents operating in deterministic feedback loops with autonomous self-correction mechanisms to eliminate model hallucination.
-* **Tri-Hybrid Retrieval Architecture:** Unifies PostgreSQL relational schema, directed entity-relationship graphs (for decision lineage), and dense vector embeddings (`pgvector` with HNSW cosine distance indexing), slashing search latency across **100k+ ingested organizational chunks**.
-* **Stack:** `Python` • `FastAPI` • `PostgreSQL` • `pgvector` • `Knowledge Graphs` • `Docker`
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    CURRENT FOCUS                             │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🤖 Applied AI/ML       → Building real-world AI systems     │
+│  🧠 LLM + RAG           → Reliable knowledge systems         │
+│  👁️ Computer Vision     → Real-time visual intelligence      │
+│  🔐 Secure ML           → Federated & privacy-aware ML       │
+│  ⚙️ Backend Engineering → Scalable AI applications          │
+│  🧩 DSA + Systems       → Strong engineering fundamentals    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+## 🎯 Career Direction
+
+I'm currently focused on opportunities where I can work on:
+
+**AI/ML Engineering • Machine Learning • NLP • Computer Vision • Generative AI • RAG • Applied AI • AI Backend Systems**
+
+My goal is simple:
+
+> **Turn strong ML fundamentals into reliable software that solves real problems.**
 
 ---
 
-#### 🎯 02. PrepAI — Multimodal Technical Interview Intelligence
-`[REAL-TIME VISION & AUDIO]` • `[30+ FPS IN-BROWSER WASM]` • `[NEURAL AST EVALUATOR]`
+## ⚡ Beyond Code
 
-> A real-time multimodal evaluation platform engineered for automated high-stakes candidate screening and cognitive stress telemetry.
-
-* **Real-Time Perceptual Vision Pipeline:** Employs MediaPipe Face Mesh and OpenCV to calculate candidate attentiveness and cognitive stress indices, tracking 3D head yaw/pitch/roll rotations and Eye Aspect Ratio (EAR) at **30+ FPS directly in the browser runtime**.
-* **Acoustic Stress Analytics & AST Engine:** Integrates the **Librosa YIN algorithm** to calculate fundamental vocal frequency ($F_0$), micro-tremor perturbation, and pitch variations, coupled with a reactive Monaco Editor performing Abstract Syntax Tree (AST) analysis for live algorithmic complexity (Big-O) scoring.
-* **Stack:** `Python` • `OpenCV` • `MediaPipe` • `Librosa (YIN)` • `React` • `Monaco Editor` • `WebSockets`
+| 🎹 Music | 💻 Problem Solving | 🎥 Content |
+| --- | --- | --- |
+| Keyboard & music production | DSA & competitive programming | Technical / AI content |
 
 ---
-
-#### 🔒 03. FedVault AI — Privacy-Preserving Federated Learning Platform
-`[ZERO-KNOWLEDGE ML]` • `[CKKS HOMOMORPHIC ENCRYPTION]` • `[BYZANTINE-FAULT DEFENSE]`
-
-> A decentralized machine learning framework designed for multi-institutional credit risk modeling without ever exposing raw private client data.
-
-* **Encrypted Tensor Aggregation:** Implemented **FedAvg (Federated Averaging)** orchestrated with **CKKS Homomorphic Encryption via TenSEAL**, executing server-side model parameter updates directly over encrypted ciphertext with zero edge decryption.
-* **Explainable AI (XAI) & Poisoning Defense:** Generates localized saliency maps (Integrated Gradients / SHAP) on edge client nodes prior to parameter serialization, defended by coordinate-wise trimmed median aggregation protocols against adversarial poisoning attacks.
-* **Stack:** `PyTorch` • `TenSEAL (CKKS)` • `Federated Averaging` • `FastAPI` • `SHAP` • `Docker`
-
----
-
-#### 👗 04. V-TryOn — Dual-Engine AR & Neural Garment Draping
-`[WASM CLIENT ACCELERATION]` • `[CP-VTON+ DEEP PIPELINE]` • `[OCCLUSION-AWARE GAN]`
-
-> A hybrid client-edge and cloud virtual fitting room architecture solving geometric distortion and texture misalignment in neural apparel transfer.
-
-* **Client-Side WASM Mesh Warping:** Deploys lightweight MediaPipe human pose estimation compiled to WebAssembly (WASM), delivering instant **30+ FPS interactive garment preview in-browser**.
-* **Deep Geometric Fitting Pipeline:** Server-side **CP-VTON+** pipeline featuring **Self-Correction Human Parsing (SCHP)** and **High-Resolution Network (HRNet)** for non-rigid deformation, realistic fabric texture draping, and occlusion-aware conditional GAN blending.
-* **Stack:** `PyTorch` • `CP-VTON+` • `SCHP` • `HRNet` • `WebAssembly (WASM)` • `MediaPipe` • `React`
-
----
-
-### 💻 Tech Stack & Engineering Arsenal
 
 <div align="center">
 
-#### AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-</p>
+### Thanks for stopping by 👋
 
-#### Backend & Microservices
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-#### Frontend & Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-#### Infrastructure & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-</p>
-
-</div>
-
----
-
-### 📊 GitHub Activity & Telemetry
-
-<div align="center">
-
-[![Prathmesh's GitHub Streak](https://streak-stats.demolab.com/?user=prathmesh-nitnaware&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B)](https://github.com/prathmesh-nitnaware)
+**Building, learning, breaking things, fixing them, and occasionally wondering why the code worked yesterday.**
 
 <br/>
 
-| ⚡ Metric | 📌 Telemetry Status |
-| :--- | :--- |
-| **🚀 Production Code Commits** | Continuous integration & active deployment |
-| **🔒 Architecture Focus** | Cryptographic Privacy (CKKS), Swarm Cognition & Low-Latency Vision |
-| **🌐 Cloud & Edge Deployments** | WebAssembly (WASM), Docker Containerization, PostgreSQL HNSW |
+<sub>Designed & built by <strong>Prathmesh Nitnaware</strong></sub>
 
-</div>
-
----
-
-### 🔭 Current Focus & Architectural Telemetry
-
-```typescript
-// ============================================================================
-// SYSTEM STATUS: [ONLINE]  |  TELEMETRY: [OPTIMAL]  |  RUNTIME: MUMBAI (IST)
-// ============================================================================
-
-interface SystemArchitectManifest {
-  identity: {
-    engineer: "Prathmesh Nitnaware";
-    specialization: "Enterprise AI Architect & Full-Stack Systems Engineer";
-    status: "Active Engineering // Continuous Deployment";
-  };
-
-  activeResearchAndEngineering: {
-    swarmCognition: "6-agent self-correcting swarms for enterprise knowledge recall";
-    triHybridRetrieval: "Relational SQL (PostgreSQL) + Knowledge Graph DAGs + pgvector HNSW";
-    homomorphicML: "TenSEAL CKKS zero-knowledge encrypted tensor aggregation (FedAvg)";
-    edgeVisionInference: "Sub-second pose estimation & mesh warping with WASM & MediaPipe";
-  };
-
-  currentDeploymentQueue: [
-    "MeetingOS: Longitudinal organizational memory & multi-quarter project tracing",
-    "PrepAI: Multimodal behavioral evaluation & real-time AST complexity analyzer",
-    "FedVault AI: Decentralized cross-institutional risk modeling over ciphertext"
-  ];
-
-  architecturalCoreTenets: [
-    "1. Observability First: Zero-drift telemetry pipelines & tracing",
-    "2. Cryptographic Security: Zero-trust computation over ciphertext",
-    "3. Deterministic Performance: Sub-second bounded latency at scale"
-  ];
-}
-```
-
----
-
-### ⚡ Beyond Code
-
-| 🎹 Keyboard Performance | 🎵 Music Production | 💻 Competitive Programming | 🎥 YouTube Content Creation |
-| :---: | :---: | :---: | :---: |
-| Classical & contemporary keys, synth textures, and live improvisation | Acoustic arrangements, harmonic composition & sound engineering | Algorithmic puzzle solving, graph theory & dynamic programming | Technical tutorials, AI deep-dives & architecture breakdowns |
-
----
-
-<div align="center">
-  <sub>Designed & Engineered with precision by <strong>Prathmesh Nitnaware</strong> • Powered by Dark-Mode GitHub Flavored Markdown</sub>
 </div>
