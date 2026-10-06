@@ -2,305 +2,130 @@
 
 # Prathmesh Nitnaware
 
-### AI/ML Engineer | Computer Engineering Student
+### AI/ML Engineer · Computer Engineering Student
 
-**Building applied AI systems across NLP, Computer Vision, RAG, Multimodal AI, and intelligent software systems.**
+Building applied AI systems across Machine Learning, NLP, Computer Vision, RAG, and AI backend architecture.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prathmeshsite.netlify.app-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prathmeshsite.netlify.app)
-
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fprathmesh--nitnaware-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-nitnaware)
-
-&nbsp;
-
-[![Email](https://img.shields.io/badge/Email-nitnaware.prathmesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitnaware.prathmesh@gmail.com)
-
-&nbsp;
-
-[![YouTube](https://img.shields.io/badge/YouTube-%40PrathmeshNitnaware-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathmeshNitnaware)
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=prathmesh-nitnaware&color=10b981&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prathmesh-nitnaware)
+[![Portfolio](https://img.shields.io/badge/Portfolio-prathmeshsite.netlify.app-10B981?style=flat-square&logo=googlechrome&logoColor=white)](https://prathmeshsite.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathmesh--nitnaware-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-nitnaware)
+[![Email](https://img.shields.io/badge/Email-nitnaware.prathmesh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nitnaware.prathmesh@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%40PrathmeshNitnaware-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathmeshNitnaware)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Computer Engineering student** focused on building practical AI/ML systems that go beyond model training and into real-world applications.
+I am a Computer Engineering student focused on building end-to-end AI/ML systems that transition from model experimentation into robust, production-ready software.
 
-My work spans:
-
-- 🤖 **Machine Learning & Deep Learning**
-- 🧠 **NLP & Large Language Models**
-- 👁️ **Computer Vision**
-- 🔎 **RAG & Knowledge Systems**
-- 🎙️ **Speech & Multimodal AI**
-- 🔐 **Privacy-Preserving & Federated Learning**
-- ⚙️ **AI-powered Backend Systems**
-- 🌐 **Full-Stack Applications**
-
-I enjoy taking an idea from **model → backend → product → deployment**, while paying attention to reliability, evaluation, security, and system design.
-
-> **Build useful systems. Understand the fundamentals. Ship the result.**
+- **AI/ML Focus:** Machine Learning, NLP, Large Language Models, Computer Vision, Generative AI, RAG, and Privacy-Preserving / Federated ML.
+- **Engineering & Systems:** Scalable backend APIs, microservice design, WebSocket telemetry, and containerized deployment.
 
 ---
 
-## 🚀 Featured Projects
+## Featured AI/ML Projects
 
-### 🎯 PrepAI — Multimodal AI Mock Interview Platform
+### [Prep_AI](https://github.com/prathmesh-nitnaware/Prep_AI) — Multimodal AI Mock Interview Platform
+An AI-driven interview simulation platform combining speech interaction, client-side computer vision (facial tracking and posture analysis), and LLM-based response evaluation with structured candidate reporting.
 
-**AI-powered interview simulation combining NLP, Computer Vision, speech analysis, and backend intelligence.**
-
-PrepAI is designed to simulate a real interview experience where an AI interviewer asks questions, evaluates responses, and generates structured performance feedback.
-
-**Highlights**
-
-- 🧠 AI-generated technical and behavioural interview questions
-- 🎙️ Speech-to-text and voice-based interview interaction
-- 👁️ Client-side facial and posture analysis
-- 📊 Deterministic communication metrics such as WPM, fillers, pauses, and delivery signals
-- 📝 AI-assisted answer evaluation and structured reporting
-- 🗄️ PostgreSQL-backed interview/session history
-- 🐳 Production-oriented backend architecture and deployment
-
-**Stack:** `Python` `Flask` `React` `PostgreSQL` `Gemini` `MediaPipe` `face-api.js` `WebSockets`
+`Python` `Flask` `React` `PostgreSQL` `Gemini API` `MediaPipe` `face-api.js` `WebSockets`
 
 ---
 
-### 🛡️ AEGIS — Distributed AI-Powered Endpoint Detection
+### [AEGIS](https://github.com/prathmesh-nitnaware/AEGIS) — Distributed AI-Powered Endpoint Detection
+A distributed endpoint detection and response (EDR) architecture combining host telemetry (Linux syscalls & Windows events), ML-based classification on PE/network flows, and weighted consensus voting across detection nodes.
 
-**A distributed cybersecurity system combining endpoint telemetry, machine learning, consensus, and Zero Trust principles.**
-
-AEGIS explores how multiple local detection nodes can collaborate to identify suspicious activity while remaining resilient to compromised or unreliable nodes.
-
-**Highlights**
-
-- 🔐 Distributed endpoint detection architecture
-- 🤖 Hybrid ML-based threat detection
-- 🗳️ Weighted consensus and voting
-- ❤️ Heartbeat-based node health monitoring
-- 🌐 Network-flow analysis
-- 🪟 Windows telemetry and behavioural detection
-- 🐧 Linux syscall telemetry
-- 📦 PE/EMBER feature extraction
-- 🧪 Security, load, and model validation pipelines
-
-**Stack:** `Python` `Machine Learning` `Scapy` `EMBER` `CICIDS` `Linux` `Windows` `Distributed Systems`
+`Python` `Scikit-Learn` `Scapy` `EMBER` `CICIDS` `Linux Syscalls` `Distributed Systems`
 
 ---
 
-### 🔒 FedVault AI — Privacy-Preserving Federated Learning
+### [FedVault_AI](https://github.com/prathmesh-nitnaware/FedVault_AI) — Privacy-Preserving Federated Learning
+A decentralized machine learning framework enabling collaborative model training across distributed clients with homomorphic encryption experimentation (TenSEAL) for secure gradient aggregation.
 
-**Exploring federated machine learning where participating clients can collaboratively train models without directly sharing raw data.**
-
-**Highlights**
-
-- 🔐 Federated learning architecture
-- 🧠 Federated model training and aggregation
-- 🔏 Homomorphic-encryption experimentation
-- 🛡️ Privacy and security considerations
-- 📊 Model evaluation across distributed clients
-- 🧪 Research-oriented experimentation around secure aggregation
-
-**Stack:** `Python` `PyTorch` `Federated Learning` `TenSEAL` `FastAPI` `Docker`
+`Python` `PyTorch` `Federated Learning` `TenSEAL` `FastAPI` `Docker`
 
 ---
 
-### 🔐 TrustFL — Trust & Security for Federated Learning
+### [TrustFL](https://github.com/prathmesh-nitnaware/TrustFL) — Trust & Robustness for Federated Learning
+A security-focused federated learning framework implementing Byzantine-robust aggregation and dynamic client reputation scoring to mitigate adversarial client updates and data poisoning.
 
-A project exploring **trust, robustness, and security in federated learning environments**, with emphasis on handling unreliable or potentially malicious participants.
-
-**Focus Areas**
-
-- Federated learning
-- Trust-aware aggregation
-- Security against malicious clients
-- Robust model coordination
-- Privacy-preserving machine learning
-
-**Stack:** `Python` `Machine Learning` `Federated Learning`
+`Python` `PyTorch` `Federated Learning` `Statistical Analysis`
 
 ---
 
-### 🧠 V-Orbit — AI-Powered Student Intelligence Platform
+### [MeetingOS](https://github.com/prathmesh-nitnaware/MeetingOS) — AI Knowledge & Meeting Intelligence System
+A semantic indexing and intelligence system designed to convert audio transcripts and conversation records into queryable knowledge using LLM summarization and pgvector similarity search.
 
-**An AI platform designed to connect learning, academic resources, skills, and career preparation.**
-
-**Core Areas**
-
-- 📚 RAG-based academic knowledge retrieval
-- 🧠 AI-powered learning assistance
-- 🎯 Skill-gap and career analysis
-- 📄 Document-based knowledge processing
-- 💬 AI interaction over domain-specific content
-
-**Stack:** `Python` `Flask` `RAG` `LLMs` `Vector Search` `Firebase`
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Docker`
 
 ---
 
-### 🧩 MeetingOS — AI Knowledge & Meeting Intelligence
+### [Virtual-Try-On](https://github.com/prathmesh-nitnaware/Virtual-Try-On) — Computer Vision Garment Alignment
+A computer vision application applying pose estimation and image transformation techniques to fit garments onto user input images.
 
-**An AI-powered system focused on turning organizational conversations and information into searchable, structured knowledge.**
-
-**Focus Areas**
-
-- 🔎 Semantic information retrieval
-- 🧠 LLM-powered knowledge extraction
-- 📚 Organizational knowledge management
-- 🗂️ Structured document and meeting information
-- ⚙️ AI-assisted backend workflows
-
-**Stack:** `Python` `FastAPI` `PostgreSQL` `pgvector` `Docker`
+`Python` `OpenCV` `Computer Vision` `Deep Learning`
 
 ---
 
-## 🧪 Other Projects
+## Other Public Projects
 
-| Project | Area |
+| Project | Focus / Description | Tech Stack |
+|---|---|---|
+| **[study-sync-ai](https://github.com/prathmesh-nitnaware/study-sync-ai)** | AI-driven study planning, contextual task management, and productivity assistance | `Python` `Flask` `LLMs` |
+| **[lease-document-approval-workflow](https://github.com/prathmesh-nitnaware/lease-document-approval-workflow)** | Automated document processing and multi-stage approval workflow system | `Python` `FastAPI` `Document Processing` |
+| **[Connect-HRapp](https://github.com/prathmesh-nitnaware/Connect-HRapp)** | Full-stack HR management portal for employee tracking, records, and administration | `JavaScript` `Node.js` `Full-Stack` |
+| **[WatchVerse](https://github.com/prathmesh-nitnaware/WatchVerse)** | Modern movie exploration and discovery web application with dynamic filtering | `JavaScript` `React` `REST APIs` |
+
+---
+
+## Technical Skills
+
+- **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, OpenCV, Google Gemini API, MediaPipe, NumPy, Pandas, Scapy
+- **Applied AI Specializations:** Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Computer Vision, Multimodal AI, Speech Processing, Federated Learning, Model Evaluation
+- **Backend & Systems:** Python (FastAPI, Flask), Node.js, Java, REST APIs, WebSockets, Distributed Systems
+- **Databases & Vector Storage:** PostgreSQL, pgvector, MongoDB, Firebase
+- **Infrastructure & Tools:** Docker, Git, GitHub, Linux, Bash, Postman
+- **Supporting Frontend:** React, TypeScript, JavaScript, HTML5/CSS3
+
+---
+
+## Current Focus
+
+| Domain | Focus Area |
 |---|---|
-| **StudySync AI** | AI-powered learning / productivity |
-| **Resume Parser** | NLP / Information Extraction |
-| **SpotFix** | AI + Full-Stack + Real-Time Systems |
-| **Virtual Try-On** | Computer Vision |
-| **Breed Classification** | Deep Learning / Computer Vision |
-| **Shopper Spectrum** | Machine Learning / Customer Analytics |
-| **Food Waster Prediction** | Machine Learning / Prediction |
-| **Voyage Analytics** | Data Analytics / ML |
+| **Applied AI/ML** | Production-grade ML pipelines and real-world system integration |
+| **LLM + RAG** | Deterministic evaluation, semantic search, and structured retrieval |
+| **Computer Vision** | Real-time edge inference, posture analysis, and visual intelligence |
+| **Secure / Federated ML** | Privacy-preserving decentralized learning and robust aggregation |
+| **Backend Engineering** | High-throughput APIs, asynchronous pipelines, and scalable microservices |
+| **DSA & Systems** | Algorithmic optimization, data structures, and distributed system design |
 
 ---
 
-## 🧰 Technical Skills
+## Career Direction
 
-### 🤖 AI / Machine Learning
+Targeting engineering opportunities where I can apply strong technical fundamentals to high-impact systems:
 
-<p align="center">
+- **Primary Focus:** AI/ML Engineering, Machine Learning, NLP, Computer Vision, Generative AI, RAG, Applied AI
+- **Engineering Stack:** AI Backend Systems, API Design, Scalable Software Architecture, Model Deployment
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-
-</p>
-
-**Machine Learning • Deep Learning • NLP • Computer Vision • RAG • LLM Applications • Multimodal AI • Speech Processing • Model Evaluation**
-
-### ⚙️ Backend & APIs
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-</p>
-
-### 🌐 Frontend
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-</p>
-
-### 🗄️ Data & Infrastructure
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</p>
+> *Translating machine learning fundamentals into reliable, production-ready software that solves concrete problems.*
 
 ---
 
-## 🧠 What I'm Currently Learning
+## Beyond Code
 
-```text
-AI / ML
-├── Machine Learning fundamentals
-├── Deep Learning
-├── NLP & LLMs
-├── RAG & Agentic AI
-├── Computer Vision
-├── Multimodal AI
-└── Model Evaluation & Optimization
-
-Engineering
-├── Data Structures & Algorithms
-├── System Design
-├── Backend Architecture
-├── Distributed Systems
-├── APIs & Microservices
-└── Cloud & Deployment
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-</div>
-
----
-
-## 🔭 Current Focus
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    CURRENT FOCUS                             │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🤖 Applied AI/ML       → Building real-world AI systems     │
-│  🧠 LLM + RAG           → Reliable knowledge systems         │
-│  👁️ Computer Vision     → Real-time visual intelligence      │
-│  🔐 Secure ML           → Federated & privacy-aware ML       │
-│  ⚙️ Backend Engineering → Scalable AI applications          │
-│  🧩 DSA + Systems       → Strong engineering fundamentals    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-## 🎯 Career Direction
-
-I'm currently focused on opportunities where I can work on:
-
-**AI/ML Engineering • Machine Learning • NLP • Computer Vision • Generative AI • RAG • Applied AI • AI Backend Systems**
-
-My goal is simple:
-
-> **Turn strong ML fundamentals into reliable software that solves real problems.**
-
----
-
-## ⚡ Beyond Code
-
-| 🎹 Music | 💻 Problem Solving | 🎥 Content |
-| --- | --- | --- |
-| Keyboard & music production | DSA & competitive programming | Technical / AI content |
+| Music Production | Problem Solving | Technical Writing |
+|---|---|---|
+| Keyboard & audio production | Competitive programming & DSA | Technical content & AI systems |
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by 👋
-
-**Building, learning, breaking things, fixing them, and occasionally wondering why the code worked yesterday.**
-
-<br/>
-
-<sub>Designed & built by <strong>Prathmesh Nitnaware</strong></sub>
+<sub>Prathmesh Nitnaware · AI/ML Engineer · Computer Engineering Student</sub>
 
 </div>
